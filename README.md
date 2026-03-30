@@ -73,14 +73,7 @@ The project features diverse visualization techniques:
    ```
 3. Execute notebook cells sequentially
 4. Review generated charts and statistical outputs
-
-## 📁 Repository Contents
-```
-├── imdb_data.csv (Source dataset)
-├── Movie_Analysis.ipynb (Complete analysis notebook)
-└── README.md (Project documentation)
-```
-
+   
 ## 🎬 Takeaway
 This project exemplifies the power of data science in the entertainment industry, demonstrating how analytical techniques reveal hidden patterns in profitability, market performance, and professional networks within cinema.
 
