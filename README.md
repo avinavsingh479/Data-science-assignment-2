@@ -85,4 +85,4 @@ The project features diverse visualization techniques:
 This project exemplifies the power of data science in the entertainment industry, demonstrating how analytical techniques reveal hidden patterns in profitability, market performance, and professional networks within cinema.
 
 ---
-**Created by**: Bhoomi Chauhan
+**Created by**: Avinav Singh
